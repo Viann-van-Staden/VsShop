@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VsShop:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft-Test-Servert-Paper/plugins</output-path>
+    <root id="archive" name="VsShop.jar">
+      <element id="module-output" name="VsShop" />
+    </root>
+  </artifact>
+</component>
